@@ -28,7 +28,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          curl -i -X POST http://localhost:3000/configs/offers-fetch/ \
+          curl -i -X POST https://procurement-core.forto.io/configs/offers-fetch/ \
           -H "Content-Type: application/json" \
           -H "Authorization: P6oR_9xLGR@zQHNQz4qNnaX7avxK4f@3w9-x7EcKrFT.Eog@2H" \
-          -d "@/bin/mearskConfig.json"
+          -d "@/bin/maerskConfig.json"
