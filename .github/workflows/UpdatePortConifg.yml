@@ -34,5 +34,5 @@ jobs:
           echo $(cat maerskConfig.json)
           curl -i -X POST https://procurement-core.forto.io/configs/offers-fetch/ \
           -H "Content-Type: application/json" \
-          -H "Authorization: P6oR_9xLGR@zQHNQz4qNnaX7avxK4f@3w9-x7EcKrFT.Eog@2H" \
+          -H "Authorization: ${{secrets.TOKEN}}" \
           -d "@maerskConfig.json"
