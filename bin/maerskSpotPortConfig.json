@@ -1,0 +1,482 @@
+[
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNNBG",
+      "destination": "DEHAM",
+      "priority": "1",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNNBG",
+      "destination": "DEBRV",
+      "priority": "1",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNQDG",
+      "destination": "DEHAM",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNNBG",
+      "destination": "DKAAR",
+      "priority": "1",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNSHG",
+      "destination": "DKAAR",
+      "priority": "1",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNNBG",
+      "destination": "NLRTM",
+      "priority": "1",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "CNSHG",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNQDG",
+      "destination": "DEBRV",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNNBG",
+      "destination": "SEGOT",
+      "priority": "3",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNNBG",
+      "destination": "ESVLC",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-mediterranean",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "VNSGN",
+      "destination": "NLRTM",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNSHG",
+      "destination": "ESVLC",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-mediterranean",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNQDG",
+      "destination": "NLRTM",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNNBG",
+      "destination": "ESBCN",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-mediterranean",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "CNSHG",
+      "destination": "ESBCN",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-mediterranean",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "INNSA",
+      "destination": "DEBRV",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "VNSGN",
+      "destination": "DEBRV",
+      "priority": "1",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "INNSA",
+      "destination": "DEHAM",
+      "priority": "2",
+      "channel": "maerskspot-updates-import-northeurope",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "CNTAO",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "INNSA",
+      "priority": "2",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "AEJEA",
+      "priority": "2",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "CNSHG",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "CNTAO",
+      "priority": "2",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "INNSA",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "AEJEA",
+      "priority": "2",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "CNSHG",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "CNTAO",
+      "priority": "2",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "INNSA",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "AEJEA",
+      "priority": "2",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DKAAR",
+      "destination": "CNSHG",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "ESVLC",
+      "destination": "CNSHG",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "ESVLC",
+      "destination": "CNYTN",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "ESVLC",
+      "destination": "INNSA",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-eastern-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "BRSSZ",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "COCTG",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "CLVAP",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEHAM",
+      "destination": "MXVER",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "BRSSZ",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "COCTG",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "CLVAP",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "DEBRV",
+      "destination": "MXVER",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "BRSSZ",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "COCTG",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "CLVAP",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "NLRTM",
+      "destination": "MXVER",
+      "priority": "1",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "ESVLC",
+      "destination": "BRSSZ",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "ESVLC",
+      "destination": "COCTG",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  },
+  {
+    "source": "MAERSK_OFFERS_API",
+    "payload": {
+      "origin": "ESVLC",
+      "destination": "CLVAP",
+      "priority": "3",
+      "channel": "maerskspot-updates-export-western-hemisphere",
+      "isActive": true
+    }
+  }
+]
