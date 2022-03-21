@@ -11,9 +11,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-
       - name: Update sandbox collection
         if: github.ref != 'refs/heads/main'
+        working-directory: bin
         run: |
           curl -i -X POST https://procurement-core.forto.io/configs/offers-fetch/ \
           -H "Content-Type: application/json" \

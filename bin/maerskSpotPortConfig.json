@@ -16,7 +16,7 @@
       "destination": "DEBRV",
       "priority": "1",
       "channel": "maerskspot-updates-import-northeurope",
-      "isActive": true
+      "isActive": false
     }
   },
   {
